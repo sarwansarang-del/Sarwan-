@@ -1,0 +1,6 @@
+{
+  "name": "Wallpaper Generator",
+  "description": "Create spectacular, high-fidelity custom screen wallpapers in minimalist, watercolor, anime, or cyberpunk themes instantly using Google Gemini AI, featuring fully interactive live phone, watch, tablet, and desktop previews.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
